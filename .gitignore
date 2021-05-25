@@ -1,0 +1,16 @@
+
+# Never ignore Asset meta data
+!/[Aa]ssets/**/*.meta
+
+# ===========================================
+# Backup, Merge & Log-Files
+# ===========================================
+*.orig
+*.orig.meta
+*.log
+*.log.meta
+*.bak
+*.bak.meta
+*.meta~*
+
+.DS_Store
